@@ -1,4 +1,0 @@
-backend/b3venv
-backend/b3venv/
-db.sqlite3
-*.pyc
