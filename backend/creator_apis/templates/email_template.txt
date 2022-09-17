@@ -1,0 +1,8 @@
+Group: {{ group_name|safe }}
+
+{{ post_title|safe }}
+
+{{ body|safe }}
+
+
+BitByBit technologies

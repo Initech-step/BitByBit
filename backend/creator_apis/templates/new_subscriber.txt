@@ -1,0 +1,12 @@
+Welcome to BitByBit
+
+From the admin:
+{{ custom_message }}
+
+You are seeing this because you have been successfully subscribed to a group,
+We hope you enjoy our services.
+
+Welcome!
+
+Ini-abasi,
+Creator.
